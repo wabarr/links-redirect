@@ -20,7 +20,7 @@
 
 title: redirect links
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://links.wabarr.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://go.wabarr.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  wabarr
 
 # Build settings
